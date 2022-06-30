@@ -1,0 +1,22 @@
+.firstDiv{
+    color:blue;
+}
+.secondDiv{
+    color:red;
+}
+#singleout{
+    color:green;
+    text-decoration: line-through;
+}
+h3+ul{
+    border: 3px dotted red;
+}
+
+li a{
+    color: red;
+}
+li a[href='https://www.w3schools.com/colors/colors_picker.asp']{
+    color: black;
+    border: 2px dashed yellow;
+
+}
